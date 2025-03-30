@@ -8,7 +8,14 @@ This project demonstrates how to use a segmentation model trained in TensorFlow 
 </center>
 
 # Use on Mac 
-
+  ```
+  brew install cmake
+  cd mac
+  mkdir build && cd build
+  cmake ..
+  make
+  ./TFLiteCheck YOUR_MODEL_path YOUR_IMAGE_path
+  ```
 
 
 # Use on Windows
