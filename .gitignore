@@ -1,9 +1,6 @@
 # Ignorar arquivos da IDE VS Code
 .vscode/
 
-# Ignorar arquivos gerados pelo TensorFlow Lite
-tflite-dist/
-
 # Outros arquivos ou pastas que você queira ignorar
 *.log
 *.tmp
