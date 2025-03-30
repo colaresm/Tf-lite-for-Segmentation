@@ -3,7 +3,7 @@ This project demonstrates how to use a segmentation model trained in TensorFlow 
 # Diagram
 <center>
 <div style="display: flex; gap: 10px;">
-    <img src="fluxogram-2.png" alt="Home page" width="900">
+    <img src="fluxogram-3.png" alt="Home page" width="900">
 </div>
 </center>
 
