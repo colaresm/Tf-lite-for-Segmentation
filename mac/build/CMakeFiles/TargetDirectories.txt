@@ -1,0 +1,3 @@
+/Users/marcelocolares/Documents/tf_lite/classification/tflite/tflite for segmentation/mac/build/CMakeFiles/TFLiteCheck.dir
+/Users/marcelocolares/Documents/tf_lite/classification/tflite/tflite for segmentation/mac/build/CMakeFiles/edit_cache.dir
+/Users/marcelocolares/Documents/tf_lite/classification/tflite/tflite for segmentation/mac/build/CMakeFiles/rebuild_cache.dir
