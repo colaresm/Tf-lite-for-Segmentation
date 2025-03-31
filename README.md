@@ -16,8 +16,15 @@ This project demonstrates how to use a segmentation model trained in TensorFlow 
   make
   ./TFLiteCheck YOUR_MODEL_path YOUR_IMAGE_path
   ```
-
-
 # Use on Windows
+  ```
+  cd windows
+  mkdir build && cd build
+  cmake ..
+  #open TFLiteCheck.sln in Visual Studio 2022.
+  #Build Release x64
+  cd Release
+  ./TFLiteCheck YOUR_MODEL_path YOUR_IMAGE_path
+  ```
 
 
